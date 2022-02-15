@@ -6,4 +6,12 @@
   </a>
 </h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=929KC)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=929KC" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=929KC" />
+</div>
